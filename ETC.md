@@ -26,3 +26,18 @@
 
 # Setup 2
     static
+
+
+# https://ubuntu.com/download/server
+    Download Ubuntu Server 22.04.1 LTS 
+
+# https://rufus.ie/ko/#google_vignette    
+
+
+# nodejs install in ubuntu
+    https://github.com/nodesource/distributions#debinstall
+
+        # Using Ubuntu
+        curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+        sudo apt-get install -y nodejs        
+        node -v

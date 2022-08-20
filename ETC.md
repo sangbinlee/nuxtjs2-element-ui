@@ -18,20 +18,13 @@
 
 
 
-# Development localhost
-    vuejs, nuxtjs, element-ui
 
-# Setup 1
-    Node.js hosting
+# ubuntu install
 
-# Setup 2
-    static
+    # https://ubuntu.com/download/server
+        Download Ubuntu Server 22.04.1 LTS 
 
-
-# https://ubuntu.com/download/server
-    Download Ubuntu Server 22.04.1 LTS 
-
-# https://rufus.ie/ko/#google_vignette    
+    # https://rufus.ie/ko/#google_vignette    
 
 
 # nodejs install in ubuntu
@@ -41,3 +34,19 @@
         curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
         sudo apt-get install -y nodejs        
         node -v
+
+
+# nginx or apache web server install in ubuntu
+
+# https set
+
+# firewall set
+
+# Development localhost
+    vuejs, nuxtjs, element-ui
+
+# Setup 1
+    Node.js hosting
+
+# Setup 2
+    static
